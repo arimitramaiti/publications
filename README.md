@@ -14,3 +14,6 @@ https://towardsdatascience.com/statistical-inference-through-confidence-interval
 
 Education in India-Covid-19
 https://medium.com/the-kickstarter/education-in-india-a4e61723451a
+
+Network Analysis Kickoff
+https://towardsdatascience.com/network-analysis-kickoff-84bf41afe020
