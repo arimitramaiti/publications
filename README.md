@@ -11,3 +11,6 @@ https://towardsdatascience.com/the-leap-from-a-discrete-to-a-continuous-probabil
 
 Confidence Interval
 https://towardsdatascience.com/statistical-inference-through-confidence-interval-estimation-f6a752ae0d48
+
+Education in India-Covid-19
+https://medium.com/the-kickstarter/education-in-india-a4e61723451a
