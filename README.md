@@ -15,3 +15,6 @@ https://medium.com/the-kickstarter/education-in-india-a4e61723451a
 
 Network Analysis Kickoff
 https://towardsdatascience.com/network-analysis-kickoff-84bf41afe020
+
+Fun with ARMA, VAR and Granger causality
+https://towardsdatascience.com/fun-with-arma-var-and-granger-causality-6fdd29d8391c
