@@ -18,3 +18,7 @@ https://towardsdatascience.com/network-analysis-kickoff-84bf41afe020
 
 Fun with ARMA, VAR and Granger causality
 https://towardsdatascience.com/fun-with-arma-var-and-granger-causality-6fdd29d8391c
+
+Elements of a Linear Programming Problem (LPP)
+https://towardsdatascience.com/elements-of-a-linear-programming-problem-lpp-325075688c18
+
