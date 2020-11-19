@@ -22,3 +22,5 @@ https://towardsdatascience.com/fun-with-arma-var-and-granger-causality-6fdd29d83
 Elements of a Linear Programming Problem (LPP)
 https://towardsdatascience.com/elements-of-a-linear-programming-problem-lpp-325075688c18
 
+Applications of Linear Programming Problem (LPP)
+https://towardsdatascience.com/applications-of-linear-programming-problem-lpp-385bc3bb9621
