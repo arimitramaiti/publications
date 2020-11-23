@@ -24,3 +24,6 @@ https://towardsdatascience.com/elements-of-a-linear-programming-problem-lpp-3250
 
 Applications of Linear Programming Problem (LPP)
 https://towardsdatascience.com/applications-of-linear-programming-problem-lpp-385bc3bb9621
+
+Data Envelopment Analysis in Linear Programming Problem (LPP)
+https://towardsdatascience.com/data-envelopment-analysis-in-linear-programming-problem-lpp-f0f7bf57e833
