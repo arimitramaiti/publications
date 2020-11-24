@@ -27,3 +27,6 @@ https://towardsdatascience.com/applications-of-linear-programming-problem-lpp-38
 
 Data Envelopment Analysis in Linear Programming Problem (LPP)
 https://towardsdatascience.com/data-envelopment-analysis-in-linear-programming-problem-lpp-f0f7bf57e833
+
+Asset Allocation Model in Linear Programming Problem (LPP)
+https://towardsdatascience.com/asset-allocation-model-in-linear-programming-problem-lpp-1c821256ccba
