@@ -30,3 +30,7 @@ https://towardsdatascience.com/data-envelopment-analysis-in-linear-programming-p
 
 Asset Allocation Model in Linear Programming Problem (LPP)
 https://towardsdatascience.com/asset-allocation-model-in-linear-programming-problem-lpp-1c821256ccba
+
+Getting familiar with R Markdown HTML
+https://towardsdatascience.com/getting-familiar-with-rmarkdown-html-f5b3bc4ec210
+
