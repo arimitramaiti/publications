@@ -34,3 +34,7 @@ https://towardsdatascience.com/asset-allocation-model-in-linear-programming-prob
 Getting familiar with R Markdown HTML
 https://towardsdatascience.com/getting-familiar-with-rmarkdown-html-f5b3bc4ec210
 
+Getting familiar with R Markdown PDF (Metadata & Citations)
+https://towardsdatascience.com/getting-familiar-with-rmarkdown-pdf-19fed1864952
+
+
