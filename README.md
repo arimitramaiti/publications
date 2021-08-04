@@ -40,3 +40,6 @@ https://towardsdatascience.com/getting-familiar-with-rmarkdown-pdf-19fed1864952
 Getting familiar with R Markdown Stargazer
 https://towardsdatascience.com/getting-familiar-with-rmarkdown-stargazer-3853831a3918
 
+Apprehnsion to order pizza
+https://medium.com/arimitra-maiti/apprehension-to-order-pizza-546ee3eb7e4a
+
