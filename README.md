@@ -41,5 +41,5 @@ Getting familiar with R Markdown Stargazer
 https://towardsdatascience.com/getting-familiar-with-rmarkdown-stargazer-3853831a3918
 
 Apprehnsion to order pizza
-https://medium.com/arimitra-maiti/apprehension-to-order-pizza-546ee3eb7e4a
+https://www.kdnuggets.com/2021/08/twitter-understand-pizza-delivery-covid.html
 
